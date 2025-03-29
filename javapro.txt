@@ -42,3 +42,7 @@ git push origin main
 
 
 https://justpaste.it/ckvzk
+
+
+
+git remote set-url --add --push <remote> <url>:
