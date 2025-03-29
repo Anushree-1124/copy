@@ -37,3 +37,8 @@ git push origin main
 git log
 git revert (paste commit hash)
 git push origin main
+
+
+
+
+https://justpaste.it/ckvzk
